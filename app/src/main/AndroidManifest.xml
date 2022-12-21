@@ -11,7 +11,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Test1"
-        tools:targetApi="31"
-        android:allowAudioPlaybackCapture="true"/>
+        tools:targetApi="31"/>
 
 </manifest>
